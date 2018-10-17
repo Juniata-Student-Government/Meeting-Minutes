@@ -1,6 +1,6 @@
 # Meeting Minutes
 
-This repository holds all of the official versions of the Juniata College Student Government's meeting minutes. Use the Markdown versions to read the documents online. Please open issues on this repository to make changes to the current  
+This repository holds all of the official versions of the Juniata College Student Government's meeting minutes. Use the Markdown versions to read the documents online. All documents translated via pandoc, please open issues or create pull requests on formatting errors that you find.  
 
 ## Markdown Versions
 [Meeting 1](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/2018-09-03.md)
