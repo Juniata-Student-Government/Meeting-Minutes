@@ -19,3 +19,9 @@ This repository holds all of the official versions of the Juniata College Studen
 [Meeting 3](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/Third%20Meeting%20Minutes.docx)
 
 [Meeting 4](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/Fourth%20Meeting%20Minutes%20.docx)
+
+[Meeting 5](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/Fifth%20Meeting%20Minutes.docx)
+
+[Meeting 6](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/Sixth%20Meeting%20Minutes%20.docx)
+
+[Meeting 7](https://github.com/Juniata-Student-Government/Meeting-Minutes/blob/master/Seventh%20Meeting%20Minutes.docx)
